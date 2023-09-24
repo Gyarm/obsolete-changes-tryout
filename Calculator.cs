@@ -6,7 +6,7 @@ namespace MyCalculatorApp
     {
         public int Add(int addent1, int addent2)
         {
-            return addent1 + addent1;
+            return addent1 + addent2;
         }
         
         public int Subtract(int minuend, int subtrahend)
